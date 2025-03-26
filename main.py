@@ -158,4 +158,4 @@ else:
 
 # Add footer
 st.markdown("---")
-st.markdown("Developed by [Your Name] • [GitHub Repo](#) • v1.0")
+
