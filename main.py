@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from datetime import datetime
-
+# Set page title and layout
+st.set_page_config(page_title="Pharma Sales Analytics", layout="wide", page_icon="📊")
 # Title of the app
 st.title("📊 Medication Usage Analysis Dashboard")
 
